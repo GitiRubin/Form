@@ -1,0 +1,10 @@
+body{
+    margin: 20px;
+    text-align: center;
+    direction: rtl;
+}
+#outlined-select-currency{
+    width: 100px;
+    
+   
+}
